@@ -1,0 +1,28 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "Template for a new TypeScript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludovicm67/ts-app-template.git"
+  },
+  "keywords": [
+    "typescript",
+    "starter",
+    "project",
+    "template"
+  ],
+  "author": {
+    "name": "Ludovic Muller",
+    "url": "https://ludovic-muller.fr/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ludovicm67/ts-app-template/issues"
+  },
+  "homepage": "https://github.com/ludovicm67/ts-app-template#readme"
+}
